@@ -9,3 +9,4 @@ This is originally designed for NDVI but you can select other bands and adjust t
 #TODO
 - improve performance / update methods
 - add timestamps
+- switch to mp4 format?
